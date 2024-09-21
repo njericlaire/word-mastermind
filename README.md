@@ -1,4 +1,4 @@
-# Word Mastermind
+# Word Game
 
 This game is a clone of [Wordle](https://www.powerlanguage.co.uk/wordle/).
 It's like the [MasterMind game](https://en.wikipedia.org/wiki/Mastermind_(board_game)), but instead of colors you have to guess words.
